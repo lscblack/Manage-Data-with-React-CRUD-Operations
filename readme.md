@@ -5,7 +5,7 @@
 ### Introduction
 
 This repository contains a project demonstrating CRUD (Create, Read, Update, Delete) operations using React for managing data. It offers functionalities to register users and perform various operations on their information.
-## Preview Of Project
+### This Is The Preview Of App Interface after Installation
 
 ``**View Of All Users and Delete Any User**``
 ![View Of All Users](images/img1.png)
@@ -94,7 +94,7 @@ This repository is released under the MIT License.
 
 This project simplifies data management using React. If you encounter any issues or have suggestions for improvement, feel free to explore or contribute to the project! If you need further assistance, don't hesitate to reach out.
 
-### This Is The Preview Of App Interface after Installation
+
 ![Update User](https://static.vecteezy.com/system/resources/thumbnails/002/016/730/original/thank-you-golden-text-with-loop-light-effect-free-video.jpg)
 
 
